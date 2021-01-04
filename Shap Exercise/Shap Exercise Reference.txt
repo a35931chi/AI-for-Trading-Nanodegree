@@ -1,0 +1,23 @@
+Updated on 2021-01-02
+
+Shapley Additive Explanations: https://youtu.be/k0vANVo-5Ek
+
+Shapley Code Intro: https://youtu.be/AhZN3Bv_OCg
+Shapley Exercise: Shap Exercise Workbook - 20210102.ipynb
+Shapley code walkthrough:
+1. Explanation for Shapley value 1: https://youtu.be/7shDUICrpro
+2. Explanation for Shapley value 2: https://youtu.be/zpn4NQNQJh8
+3. Explanation for Shapley value 3: https://youtu.be/xkhSC032Fxs
+4. Practice coding 1: https://youtu.be/2X9531oXeJY
+5. Practice coding 2: https://youtu.be/Kuwa4DkNBZs
+6. Practice coding 3: https://youtu.be/EM21p54qrp0
+7. Practice coding 4: https://youtu.be/8RKZrweh0Mw
+8. Practice coding 5: https://youtu.be/lNlhJhtCdxE
+9. Practice coding 6: https://youtu.be/C6i12sqcgtY
+10. Practice coding 7: https://youtu.be/jcAiG0nLByI
+11. Practice coding 8: https://youtu.be/Z9nChsPuIbY
+12. Practice coding 9: https://youtu.be/gRSj2_SBwnM
+13. Practice coding 10: https://youtu.be/yOfZDm99Vac
+14. Practice coding 11: https://youtu.be/YmCSCA8Psgk
+15. Discussion 1: https://youtu.be/0wNk_7Smmoc
+16. Discussion 2: https://youtu.be/pxmaMYOtNys

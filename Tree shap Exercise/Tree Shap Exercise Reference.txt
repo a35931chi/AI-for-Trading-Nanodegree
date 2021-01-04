@@ -1,0 +1,31 @@
+Updated on 2021-01-02
+
+Shapley tree code intro: https://youtu.be/Si3r4-VR0CU
+
+Shapley Exercise: Tree Shap Exercise Workbook - 20210102.ipynb
+Shapley tree code walkthrough:
+1. Algo walkthrough 1: https://youtu.be/4ko5-Ck-yCQ
+2. Algo walkthrough 2: https://youtu.be/g1nevC4NU2U
+3. Tree attributes: https://youtu.be/IMhB5bOK7Wg
+4. Proportion quiz: https://youtu.be/gMkMy0BeuaU
+5. Proportion solution: https://youtu.be/i03PYAy2ijE
+6. Custom Tree Wrapper 1: https://youtu.be/IfwRHDSxwPs
+7. Custom Tree Wrapper 2: https://youtu.be/27tEa_Bpq20
+8. Tree Prediction 1: https://youtu.be/MLAnUO0BSr0
+9. Tree Prediction 2: https://youtu.be/DG-HiRum1JU
+10. Tree Prediction 3: https://youtu.be/VgtWMV2GIic
+11. Tree Prediction 4: https://youtu.be/y-vY_23kSU0
+12. Calculate Weight 1: https://youtu.be/1cautGeQWDE
+13. Calculate Weight 2: https://youtu.be/VTQJc3Q7m9M
+14. Calculate Marginal Contribution 1: https://youtu.be/RhDVEN3vHc8
+15. Calculate Marginal Contribution 2: https://youtu.be/HINVjMBV6O8
+16. Generate all subsets 1: https://youtu.be/ddoL_RcpZAc
+17. Generate all subsets 2: https://youtu.be/YfwUDZ_hNKI
+18. Calculate Shap Value for one feat 1: https://youtu.be/BKD_FseE6Z4
+19. Calculate Shap Value for one feat 2: https://youtu.be/Q0qAsUz2gnU
+20. Shap Value for all Features: https://youtu.be/-hYuszY7ffo
+21. Using a simple (linear) model to explain the results of a complex (non-linear) model 1: https://youtu.be/uTpfEfHp_KA
+22. Using a simple (linear) model to explain the results of a complex (non-linear) model 2: https://youtu.be/ah171-grqus
+23. Example 1: https://youtu.be/6yMdxyiykeg
+24. Example 2: https://youtu.be/36-igThq7yI
+23. Example 3: https://youtu.be/W_N9wjVnfBk

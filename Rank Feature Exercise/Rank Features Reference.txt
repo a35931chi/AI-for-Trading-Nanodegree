@@ -1,0 +1,12 @@
+Updated on 2021-01-03
+
+Rank Feature Exercise: Rank Features - 20210103.ipynb
+Rank Features code walkthrough:
+1. Intro and run starter code: https://youtu.be/T3K68vodL5E
+2. Rank features with sklearn 1: https://youtu.be/qZc-VBI4wY0
+3. Rank features with sklearn 2: https://youtu.be/p6_reRrh3p0
+4. Use Shap library to determine feature importance: https://youtu.be/KidZpvQ9Sus
+5. Plot global feature importance: https://youtu.be/8JiJ3R2F3Ng
+6. Rank features using Shap 1: https://youtu.be/7b_CpMxqVYc
+7. Rank features using Shap 2: https://youtu.be/jkAxXatozUo
+8. Discussion: https://youtu.be/oTUWNw8X45M

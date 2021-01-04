@@ -1,0 +1,16 @@
+Updated on 2021-01-02
+Feature Importance intro: https://youtu.be/tNGSsp6vUvY
+Feature Importance in Finance: https://youtu.be/xaXHTDANbnc
+Feature Importance in Scikit-learn: https://youtu.be/CHo9WLLAOl0
+sklearn Exercise: Feature Importance Workbook - 20201231.ipynb
+sklearn code walkthrough:
+1. Introduction: https://youtu.be/1lkQSp6FHgo
+2. Generate Data & train a decision tree: https://youtu.be/ZxfpUIY_AcE
+3. Explore the tree: https://youtu.be/e6SZrnZxaTI
+4. Features used to splitting at each nodes: https://youtu.be/l614btyXRCI
+5. Gini Impurity: https://youtu.be/_Ar4nlfUUEM
+6. Gini Impurity solution: https://youtu.be/xCjkhgQDTu4
+7. Node Importance: https://youtu.be/Q7KJgKCm8cs
+8. Node Importance solution: https://youtu.be/Il0GsMMyTcM
+9. Feature Importance: https://youtu.be/v4Ksjo3snnI
+10. Feature Importance solution: https://youtu.be/C0_ngrOk-TA
